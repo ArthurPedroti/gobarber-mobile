@@ -58,6 +58,7 @@
 - **#Prettier**
 - **#Styled-Components**
 - **#unForm**
+- **#Yup**
 
 ## Install
 
